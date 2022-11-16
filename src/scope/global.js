@@ -18,7 +18,7 @@ bestFruit();
 
 
 function countries(){
-    country = 'Colombia';// global ❌
+    country = 'Colombia';// global por error  ❌
     console.log(country);
 }
 
